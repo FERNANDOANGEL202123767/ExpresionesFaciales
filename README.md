@@ -35,11 +35,11 @@ Una **API web desarrollada con Flask** que combina tecnologías de computer visi
 ## 🖼️ Capturas del Proyecto
 
 ### Interfaz Principal
-![Main Interface](images/main_interface.png)
+![Main Interface](emotion/incio.png)
 *Dashboard principal con opciones de carga y análisis de imágenes*
 
 ### Análisis de Emociones
-![Emotion Analysis](images/emotion_analysis.png)
+![Emotion Analysis](emotion/analisis.png)
 *Resultado del análisis mostrando puntos faciales y emoción detectada*
 
 ## 🔧 Requisitos del Sistema
